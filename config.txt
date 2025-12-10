@@ -1,0 +1,66 @@
+{
+  "password_hash": "$2y$10$wO2g1b5R2hP2j6vY3rQbEu9eW8f0z3k2pQhY2zQf1r1bT1zG7sKqG", 
+  "intercom_name": "INTERCOM",
+  "rooms": {
+    "1": {
+      "name": "sala 1",
+      "users": [
+        {"name":"USER 1","ip":""},{"name":"USER 2","ip":""},{"name":"USER 3","ip":""},{"name":"USER 4","ip":""},
+        {"name":"USER 5","ip":""},{"name":"USER 6","ip":""},{"name":"USER 7","ip":""},{"name":"USER 8","ip":""},
+        {"name":"USER 9","ip":""},{"name":"USER 10","ip":""},{"name":"USER 11","ip":""},{"name":"USER 12","ip":""},
+        {"name":"USER 13","ip":""},{"name":"USER 14","ip":""},{"name":"USER 15","ip":""},{"name":"USER 16","ip":""},
+        {"name":"USER 17","ip":""},{"name":"USER 18","ip":""},{"name":"USER 19","ip":""},{"name":"USER 20","ip":""},
+        {"name":"USER 21","ip":""},{"name":"USER 22","ip":""},{"name":"USER 23","ip":""},{"name":"USER 24","ip":""},
+        {"name":"USER 25","ip":""},{"name":"USER 26","ip":""},{"name":"USER 27","ip":""},{"name":"USER 28","ip":""},
+        {"name":"USER 29","ip":""},{"name":"USER 30","ip":""},{"name":"USER 31","ip":""},{"name":"USER 32","ip":""},
+        {"name":"USER 33","ip":""},{"name":"USER 34","ip":""},{"name":"USER 35","ip":""},{"name":"USER 36","ip":""},
+        {"name":"USER 37","ip":""},{"name":"USER 38","ip":""},{"name":"USER 39","ip":""},{"name":"USER 40","ip":""}
+      ]
+    },
+    "2": {
+      "name": "sala 2",
+      "users": [
+        {"name":"USER 1","ip":""},{"name":"USER 2","ip":""},{"name":"USER 3","ip":""},{"name":"USER 4","ip":""},
+        {"name":"USER 5","ip":""},{"name":"USER 6","ip":""},{"name":"USER 7","ip":""},{"name":"USER 8","ip":""},
+        {"name":"USER 9","ip":""},{"name":"USER 10","ip":""},{"name":"USER 11","ip":""},{"name":"USER 12","ip":""},
+        {"name":"USER 13","ip":""},{"name":"USER 14","ip":""},{"name":"USER 15","ip":""},{"name":"USER 16","ip":""},
+        {"name":"USER 17","ip":""},{"name":"USER 18","ip":""},{"name":"USER 19","ip":""},{"name":"USER 20","ip":""},
+        {"name":"USER 21","ip":""},{"name":"USER 22","ip":""},{"name":"USER 23","ip":""},{"name":"USER 24","ip":""},
+        {"name":"USER 25","ip":""},{"name":"USER 26","ip":""},{"name":"USER 27","ip":""},{"name":"USER 28","ip":""},
+        {"name":"USER 29","ip":""},{"name":"USER 30","ip":""},{"name":"USER 31","ip":""},{"name":"USER 32","ip":""},
+        {"name":"USER 33","ip":""},{"name":"USER 34","ip":""},{"name":"USER 35","ip":""},{"name":"USER 36","ip":""},
+        {"name":"USER 37","ip":""},{"name":"USER 38","ip":""},{"name":"USER 39","ip":""},{"name":"USER 40","ip":""}
+      ]
+    },
+    "3": {
+      "name": "sala 3",
+      "users": [
+        {"name":"USER 1","ip":""},{"name":"USER 2","ip":""},{"name":"USER 3","ip":""},{"name":"USER 4","ip":""},
+        {"name":"USER 5","ip":""},{"name":"USER 6","ip":""},{"name":"USER 7","ip":""},{"name":"USER 8","ip":""},
+        {"name":"USER 9","ip":""},{"name":"USER 10","ip":""},{"name":"USER 11","ip":""},{"name":"USER 12","ip":""},
+        {"name":"USER 13","ip":""},{"name":"USER 14","ip":""},{"name":"USER 15","ip":""},{"name":"USER 16","ip":""},
+        {"name":"USER 17","ip":""},{"name":"USER 18","ip":""},{"name":"USER 19","ip":""},{"name":"USER 20","ip":""},
+        {"name":"USER 21","ip":""},{"name":"USER 22","ip":""},{"name":"USER 23","ip":""},{"name":"USER 24","ip":""},
+        {"name":"USER 25","ip":""},{"name":"USER 26","ip":""},{"name":"USER 27","ip":""},{"name":"USER 28","ip":""},
+        {"name":"USER 29","ip":""},{"name":"USER 30","ip":""},{"name":"USER 31","ip":""},{"name":"USER 32","ip":""},
+        {"name":"USER 33","ip":""},{"name":"USER 34","ip":""},{"name":"USER 35","ip":""},{"name":"USER 36","ip":""},
+        {"name":"USER 37","ip":""},{"name":"USER 38","ip":""},{"name":"USER 39","ip":""},{"name":"USER 40","ip":""}
+      ]
+    },
+    "4": {
+      "name": "sala 4",
+      "users": [
+        {"name":"USER 1","ip":""},{"name":"USER 2","ip":""},{"name":"USER 3","ip":""},{"name":"USER 4","ip":""},
+        {"name":"USER 5","ip":""},{"name":"USER 6","ip":""},{"name":"USER 7","ip":""},{"name":"USER 8","ip":""},
+        {"name":"USER 9","ip":""},{"name":"USER 10","ip":""},{"name":"USER 11","ip":""},{"name":"USER 12","ip":""},
+        {"name":"USER 13","ip":""},{"name":"USER 14","ip":""},{"name":"USER 15","ip":""},{"name":"USER 16","ip":""},
+        {"name":"USER 17","ip":""},{"name":"USER 18","ip":""},{"name":"USER 19","ip":""},{"name":"USER 20","ip":""},
+        {"name":"USER 21","ip":""},{"name":"USER 22","ip":""},{"name":"USER 23","ip":""},{"name":"USER 24","ip":""},
+        {"name":"USER 25","ip":""},{"name":"USER 26","ip":""},{"name":"USER 27","ip":""},{"name":"USER 28","ip":""},
+        {"name":"USER 29","ip":""},{"name":"USER 30","ip":""},{"name":"USER 31","ip":""},{"name":"USER 32","ip":""},
+        {"name":"USER 33","ip":""},{"name":"USER 34","ip":""},{"name":"USER 35","ip":""},{"name":"USER 36","ip":""},
+        {"name":"USER 37","ip":""},{"name":"USER 38","ip":""},{"name":"USER 39","ip":""},{"name":"USER 40","ip":""}
+      ]
+    }
+  }
+}
